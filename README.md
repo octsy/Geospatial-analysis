@@ -21,8 +21,10 @@ https://app.powerbi.com/view?r=eyJrIjoiZDIyNzBjMDItNWZkOS00ZmRiLWEzMDUtYmQwODliM
 - https://datagov.mot.go.th/dataset/roadaccident/resource/40476c7b-4194-4dc2-aba5-7326819ed071?inner_span=True
 
 ## Spatial Data Model
-![6x9By2.png](https://sv1.picz.in.th/images/2021/12/01/6x9By2.png)
+![6xtDpE.png](https://sv1.picz.in.th/images/2021/12/01/6xtDpE.png)
 
 ## Result
 ![6xTZVV.png](https://sv1.picz.in.th/images/2021/12/01/6xTZVV.png)
 
+จากการวิเคราะห์ข้อมูลเชิงพื้นที่พบว่าถ้าเราสามารถหาทำเลที่เหมาะสมในการสร้างศูนย์ป้องกันอุบัติเหตุฉุกเฉินได้ เราก็จะสามารถเตรียมพร้อมในการรับมือกับอุบัติเหตุที่จะเกิดขึ้นได้ 
+และช่วยให้เราสามารถจัดเตรียมงบประมาณในการจัดการกับปัญหาอุบัติเหตุทางท้องถนนได้ อีกทั้งยังสามารถช่วยลด workload ในโรงพยาบาลได้อีกด้วย
