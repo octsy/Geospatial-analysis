@@ -11,7 +11,7 @@ Contributors :
 ## Power BI dashboard :
 https://app.powerbi.com/view?r=eyJrIjoiZDIyNzBjMDItNWZkOS00ZmRiLWEzMDUtYmQwODliMjg4NmFiIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D&fbclid=IwAR3bYaGtCUCBCM4Ioi2-O7LLg1nMzU9wdAMVoiAaeiW9irxz_z5u-8v3kNg
 
-![6xkZVb.jpg](https://sv1.picz.in.th/images/2021/12/01/6xkZVb.jpg)
+![image](https://user-images.githubusercontent.com/80860852/160222939-23ef8a8d-c179-4c69-b6b1-0b21763d7514.png)
 
 ## Dataset
 1. ข้อมูลพิกัดสถานพยาบาลของรัฐจากระบบ CITIZENinfo
@@ -21,10 +21,10 @@ https://app.powerbi.com/view?r=eyJrIjoiZDIyNzBjMDItNWZkOS00ZmRiLWEzMDUtYmQwODliM
 - https://datagov.mot.go.th/dataset/roadaccident/resource/40476c7b-4194-4dc2-aba5-7326819ed071?inner_span=True
 
 ## Spatial Data Model
-![6xtDpE.png](https://sv1.picz.in.th/images/2021/12/01/6xtDpE.png)
+![image](https://user-images.githubusercontent.com/80860852/160222903-42250254-6b85-4c97-be8b-01107a8efa18.png)
 
 ## Result
-![6xTZVV.png](https://sv1.picz.in.th/images/2021/12/01/6xTZVV.png)
+![image](https://user-images.githubusercontent.com/80860852/160223011-e9716cb6-14d4-4a06-a42a-f869cb4c8ecf.png)
 
 จากการวิเคราะห์ข้อมูลเชิงพื้นที่พบว่าถ้าเราสามารถหาทำเลที่เหมาะสมในการสร้างศูนย์ป้องกันอุบัติเหตุฉุกเฉินได้ เราก็จะสามารถเตรียมพร้อมในการรับมือกับอุบัติเหตุที่จะเกิดขึ้นได้ 
 และช่วยให้เราสามารถจัดเตรียมงบประมาณในการจัดการกับปัญหาอุบัติเหตุทางท้องถนนได้ อีกทั้งยังสามารถช่วยลด workload ในโรงพยาบาลได้อีกด้วยนะ
